@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "6a8457a8326bfed3",
+    "type": "split",
+    "children": [
+      {
+        "id": "77f211715d0217de",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Unity.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dffe271495ae7088",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca7f00c00de4d4e3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "250b150c94ea720a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "baceffc326a0c87b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "66aa729eb00338c8",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee18ec187a088a9b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8d48d45c071433c1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Unity.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "77f211715d0217de",
+  "lastOpenFiles": [
+    "Unity.md",
+    "meta文件.md",
+    "3D游戏地图制作.md"
+  ]
+}
