@@ -1,0 +1,107 @@
+{
+  "main": {
+    "id": "6c4f0b91b2334ee4",
+    "type": "split",
+    "children": [
+      {
+        "id": "08adbf0f6bfc1878",
+        "type": "leaf",
+        "state": {
+          "type": "diff-view",
+          "state": {
+            "file": "Computer Graphic/计算机图形学笔记.md",
+            "staged": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0dd38f78f393a220",
+    "type": "split",
+    "children": [
+      {
+        "id": "d3ed24c5fc5ffd10",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e40deab328af2023",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "1fac572f392f42eb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dd37a08bc74ca395",
+    "type": "split",
+    "children": [
+      {
+        "id": "43001408bc9c39b0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "67dfe2c06260f8b2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b4d7690e830639d3",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "08adbf0f6bfc1878",
+  "lastOpenFiles": [
+    "Programming Language/C#/C Sharp.md",
+    "Programming Language/C#/GC.md",
+    "Math/GamePhysics.md",
+    "Game Engine/Unity/Unity.md",
+    "Game Engine/Unity/meta文件.md",
+    "Game Engine/Unity/3D游戏地图制作.md",
+    "Computer Graphic/Eigen.md",
+    "Computer Graphic/计算机图形学笔记.md"
+  ]
+}
