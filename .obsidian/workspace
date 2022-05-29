@@ -7,10 +7,11 @@
         "id": "08adbf0f6bfc1878",
         "type": "leaf",
         "state": {
-          "type": "diff-view",
+          "type": "markdown",
           "state": {
             "file": "Computer Graphic/计算机图形学笔记.md",
-            "staged": false
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -68,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Computer Graphic/计算机图形学笔记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,13 +97,13 @@
   },
   "active": "08adbf0f6bfc1878",
   "lastOpenFiles": [
+    "Computer Graphic/计算机图形学笔记.md",
+    "Game Engine/Unity/3D游戏地图制作.md",
+    "Game Engine/Unity/meta文件.md",
+    "Game Engine/Unity/Unity.md",
     "Programming Language/C#/C Sharp.md",
     "Programming Language/C#/GC.md",
     "Math/GamePhysics.md",
-    "Game Engine/Unity/Unity.md",
-    "Game Engine/Unity/meta文件.md",
-    "Game Engine/Unity/3D游戏地图制作.md",
-    "Computer Graphic/Eigen.md",
-    "Computer Graphic/计算机图形学笔记.md"
+    "Computer Graphic/Eigen.md"
   ]
 }
