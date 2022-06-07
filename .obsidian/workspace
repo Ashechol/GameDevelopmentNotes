@@ -81,7 +81,7 @@
             }
           },
           {
-            "id": "b4d7690e830639d3",
+            "id": "cf8f061aae1967c4",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -100,10 +100,10 @@
     "Computer Graphic/计算机图形学笔记.md",
     "Game Engine/Unity/3D游戏地图制作.md",
     "Game Engine/Unity/meta文件.md",
+    "Math/GamePhysics.md",
+    "Computer Graphic/Eigen.md",
     "Game Engine/Unity/Unity.md",
     "Programming Language/C#/C Sharp.md",
-    "Programming Language/C#/GC.md",
-    "Math/GamePhysics.md",
-    "Computer Graphic/Eigen.md"
+    "Programming Language/C#/GC.md"
   ]
 }
