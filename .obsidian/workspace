@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computer Graphic/计算机图形学笔记.md",
+            "file": "Programming Language/C#/C# 引用类型踩坑.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Graphic/计算机图形学笔记.md",
+                "file": "Programming Language/C#/C# 引用类型踩坑.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +97,7 @@
   },
   "active": "08adbf0f6bfc1878",
   "lastOpenFiles": [
+    "Programming Language/C#/C# 引用类型踩坑.md",
     "Computer Graphic/计算机图形学笔记.md",
     "Game Engine/Unity/3D游戏地图制作.md",
     "Game Engine/Unity/meta文件.md",
